@@ -105,3 +105,10 @@ body{
     margin-top: 10px;
     display: none;
 }
+
+@media (max-width: 768px){
+    .card{
+        margin: 0;
+        background: 0;
+    }
+}
